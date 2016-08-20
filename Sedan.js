@@ -1,3 +1,4 @@
+//Original IIFE, so make it first
 var Sedan = (function(){
   var color = "blue"; 
   var type = "sedan"; 
